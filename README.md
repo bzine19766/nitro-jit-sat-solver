@@ -107,3 +107,13 @@ pip install -r requirements.txt
 
 # Run the complete notebook
 jupyter notebook notebooks/sourcecode.ipynb
+
+
+
+@article{bouneb2025hardware,
+  title={Hardware-Aligned Bit-Parallel Conflict Evaluation for High-Throughput Stochastic Local Search},
+  author={Bouneb, Zine El Abidine},
+  journal={International Journal of Artificial Intelligence and Soft Computing},
+  year={2025},
+  publisher={Inderscience Publishers}
+}
