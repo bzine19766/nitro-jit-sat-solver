@@ -110,7 +110,7 @@ jupyter notebook notebooks/sourcecode.ipynb
 
 
 
-@article{bouneb2025hardware,
+@article{bouneb2026hardware,
   title={Hardware-Aligned Bit-Parallel Conflict Evaluation for High-Throughput Stochastic Local Search},
   author={Bouneb, Zine El Abidine},
   journal={International Journal of Artificial Intelligence and Soft Computing},
