@@ -114,6 +114,6 @@ jupyter notebook notebooks/sourcecode.ipynb
   title={Hardware-Aligned Bit-Parallel Conflict Evaluation for High-Throughput Stochastic Local Search},
   author={Bouneb, Zine El Abidine},
   journal={International Journal of Artificial Intelligence and Soft Computing},
-  year={2025},
+  year={2026},
   publisher={Inderscience Publishers}
 }
